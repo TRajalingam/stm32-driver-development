@@ -66,4 +66,30 @@ All programs are written in Embedded C using register-level programming (bare-me
 
 ---
 
-## 📸 Project Structure
+## 📌 Key Learning Highlights
+
+- Direct register access instead of HAL
+- Efficient use of bitwise operations
+- Understanding hardware-level control
+- Writing reusable embedded drivers
+
+---
+
+## 🎯 Future Improvements
+
+- SPI and I2C drivers
+- Timer and PWM modules
+- RTOS (FreeRTOS) integration
+- Low-power modes
+
+---
+
+## 🤝 Contributions
+
+This is a personal learning repository, but suggestions and improvements are welcome!
+
+---
+
+## 📬 Contact
+
+Feel free to connect for embedded discussions or opportunities.
